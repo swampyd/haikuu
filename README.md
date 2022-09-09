@@ -1,2 +1,2 @@
 # haikuu
-random
+random repository
